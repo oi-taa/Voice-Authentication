@@ -88,7 +88,7 @@ T clipped to [0.30, 0.60]
 
 ## 🖼 Visualizations
 
-![Adaptive Threshold Evaluation Summary](visualizations/results.png)
+![Results](results.png)
 
 Extract FBank Features
 python preprocess.py --input data/ --output features/
